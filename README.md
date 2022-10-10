@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Ecommerce Project](https://github.com/jakubczarnowski/Java_Ecommerce_Rest)
 
-- 🌱 I’m currently learning **React, Spring Boot**
-
 - 📫 How to reach me **LinkedIn or Email: czarnowskijakub5@gmail.com,**
 
 - ⚡ Fun fact **I wrote in almost every stack**
