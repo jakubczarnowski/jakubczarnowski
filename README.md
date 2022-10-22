@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Ambitious Fullstack Developer</h3>
 
-- 🔭 I’m currently working on [Ecommerce Project](https://github.com/jakubczarnowski/Java_Ecommerce_Rest)
+- 🔭 I’m currently working on improving :)
 
 - 📫 How to reach me **LinkedIn or Email: czarnowskijakub5@gmail.com,**
 
