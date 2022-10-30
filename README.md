@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">Ambitious Fullstack Developer</h3>
+<h3 align="center">Junior Fullstack Developer</h3>
 
 - 🔭 I’m currently working on improving :)
 
 - 📫 How to reach me **LinkedIn or Email: czarnowskijakub5@gmail.com,**
-
-- ⚡ Fun fact **I wrote in almost every stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
